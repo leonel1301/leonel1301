@@ -12,7 +12,7 @@ Thank you for stopping by, and feel free to reach out to me if you have any ques
 </p>
 <h3 align="left"><strong> I'm currently learning:</strong></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,vue,nodejs,angular" />
+    <img src="https://skillicons.dev/icons?i=java,cs,vue,react,nodejs,angular" />
 </p>
 
 <h3 align="left"><strong>GitHub stats</strong></h3>
